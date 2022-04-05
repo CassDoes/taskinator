@@ -1,13 +1,13 @@
 # ${data.title}
 
   # Table of Content
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[Credits](#credits)
-  -[Licenses](#licenses)
-  -[Questions](#questions)
-  -[Tests](#tests)
+  -[Description] (#description)
+  -[Installation] (#installation)
+  -[Usage] (#usage)
+  -[Credits] (#credits)
+  -[Licenses] (#licenses)
+  -[Questions] (#questions)
+  -[Tests] (#tests)
 
   ## Description:
   ${data.description}
