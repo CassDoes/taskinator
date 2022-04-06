@@ -38,5 +38,5 @@
 
   ## Licenses
   
-  Copyright (c) asdf. All rights reserved.  
+  Copyright (c) asdfg. All rights reserved.  
   Licensed under the MIT license.
