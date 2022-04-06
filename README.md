@@ -19,7 +19,7 @@
   There are a bunch of examples for this projects
 
   ## Credits
-  [![](https://github.com/cassdoes.png?size=10)](https://github.com/cassdoes)\
+  [![](https://github.com/cassdoes.png=20)](https://github.com/cassdoes)\
   William Stock
   
 
