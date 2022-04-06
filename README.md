@@ -1,4 +1,4 @@
-# asdfs
+# asdfa
 
   ## Table of Contents
   - [Description](#description)
@@ -10,24 +10,25 @@
   - [Tests](#tests)
 
   ## Description
-  sdfasd
+  sdfas
 
   ## Installation
-  sdfasdf
+  asdfa
 
   ## Usage
-  asdfads
+  asdfasd
 
   ## Credits
-  [<img src="https://github.com/cassdoes.png?" target="_blank" width="125"/>](https://github.com/cassdoes)  
+  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes target="_blank")  
+
   cassandra hardin
   
   ## Licenses
-  sadfsda
+  asdfsdaf
 
   ## Questions
-  asdfsdf
-  sadfsadf
+  asdfasd
+  fasdfasd
 
   ## Tests
-  asdfa
+  asdfasdf
