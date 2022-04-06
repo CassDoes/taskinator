@@ -19,7 +19,7 @@
   asdf
 
   ## Credits
-  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes?target="_blank")  
+  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes/ target="_blank")  
 
   cassandra
   
