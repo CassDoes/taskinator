@@ -1,4 +1,4 @@
-# sdfas
+# Portfolio
 
   ## Table of Contents
   - [Description](#description)
@@ -10,27 +10,26 @@
   - [Tests](#tests)
 
   ## Description
-  sdfasdf
+  Description words go here
 
   ## Installation
-  sadfasdf
+  
 
   ## Usage
-  asdfs
+  So many examples can go here
 
   ## Credits
-  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes)  
+  [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118)  
 
-  **cassandra hardin**
+  **William Stock**
   
   ## Licenses
-  asdf
+  Nobody can touch my shit
 
   ## Questions
-  **I can be contacted at the following: ** 
-  
+  I can be contacted at the following:  
   [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes)  
   cass@yahoo.com
 
   ## Tests
-  asdfas
+  none at all
