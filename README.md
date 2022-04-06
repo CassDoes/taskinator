@@ -1,4 +1,4 @@
-# Portfolio
+# Run Buddy
 
   ## Table of Contents
   - [Description](#description)
@@ -10,28 +10,34 @@
   - [Tests](#tests)
 
   ## Description
-  Description words go here
+  Exercise things go here
 
   ## Installation
-  
+  Put all the instructions here.
 
   ## Usage
-  So many examples can go here
+  Put more instructions here.
 
   ## Credits
-  [<img src="https://github.com/wist118.png?" width="115"/>](https://github.com/wist118)  
+  [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118)  
 
   **William Stock**
-  
-  ## Licenses
-  Nobody can touch my stuff
 
-  ## Questions
-  I can be contacted at the following:  
-  
+  ## Contributing & Feedback 
+
+  Please reach out via either of these links with any questions, including ways in which  
+  you can contribute to this project!
+
   [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes)  
   
   cass@yahoo.com
 
+  ## Tests
+  None at all
+
+  ## Licenses
+  
+  Copyright (c) Run Buddy. All rights reserved.  
+  Licensed under MIT license.
   ## Tests
   none at all
