@@ -19,7 +19,7 @@
   asdfads
 
   ## Credits
-  [<img src="https://github.com/cassdoes.png?" width="125"/>](https://github.com/cassdoes)  
+  [<img src="https://github.com/cassdoes.png?" target="_blank" width="125"/>](https://github.com/cassdoes)  
   cassandra hardin
   
   ## Licenses
