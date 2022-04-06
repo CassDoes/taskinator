@@ -39,5 +39,3 @@
   
   Copyright (c) Run Buddy. All rights reserved.  
   Licensed under MIT license.
-  ## Tests
-  none at all
