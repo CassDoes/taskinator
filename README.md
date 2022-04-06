@@ -19,16 +19,16 @@
   There are a bunch of examples for this projects
 
   ## Credits
-  [![](https://github.com/cassdoes.png?size=10)](https://github.com/cassdoes)
-  William Stock
+  * [![](https://github.com/cassdoes.png?size=10)](https://github.com/cassdoes)
+  * William Stock
   
 
   ## Licenses
   No one can use my stuff
 
   ## Questions
-  cassdoes
-  yahoo.com
+  * cassdoes
+  * yahoo.com
 
   ## Tests
   No testing at all
