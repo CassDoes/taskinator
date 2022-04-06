@@ -27,6 +27,7 @@
   asdf
 
   ## Questions
+  I can be contacted at the following:
   [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes)  
   cassdoes
   cass@yahoo.com
