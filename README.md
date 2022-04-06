@@ -1,5 +1,5 @@
-# Run Buddy  
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
+# asdf
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -11,30 +11,32 @@
   - [Tests](#tests)
 
   ## Description
-  Exercise things go here
+  asdf
 
   ## Installation
-  Put all the instructions here.
+  asdf
 
   ## Usage
-  Put more instructions here.
+  asdf
 
   ## Credits
-  [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118)  
+  [<img src="https://github.com/undefined.png?" width="100"/>](https://github.com/undefined)  
 
-  **William Stock**
+  **undefined**
 
   ## Contributing & Feedback 
 
   Please reach out via either of these links with any questions, including ways in which  
   you can contribute to this project!
 
-  [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes)  
+  [<img src="https://github.com/asdf.png?" width="150"/>](https://github.com/asdf)  
   
-  cass@yahoo.com
+  asdf
 
   ## Tests
-  None at all
+  asdf
 
   ## Licenses
-  Copyright (c) Run Buddy. All rights reserved.
+  
+  Copyright (c) asdf. All rights reserved.  
+  Licensed under the MIT license.
