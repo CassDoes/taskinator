@@ -1,4 +1,4 @@
-# asdf
+ # Portfolio Project
   [<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
@@ -11,32 +11,32 @@
   - [Tests](#tests)
 
   ## Description
-  asdf
+  Here is a description of my project
 
   ## Installation
-  asdf
+  There are lots of steps here
 
   ## Usage
-  asdf
+  Here are the instructions for how my project should be used.
 
   ## Credits
-  [<img src="https://github.com/undefined.png?" width="100"/>](https://github.com/undefined)  
+  [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118)  
 
-  **undefined**
+  **William Stock**
 
   ## Contributing & Feedback 
 
   Please reach out via either of these links with any questions, including ways in which  
   you can contribute to this project!
 
-  [<img src="https://github.com/asdf.png?" width="150"/>](https://github.com/asdf)  
+  [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes)  
   
-  asdf
+  casshaxo@yahoo.com
 
   ## Tests
-  asdf
+  My project has not had any testing.
 
   ## Licenses
   
-  Copyright (c) asdfg. All rights reserved.  
-  Licensed under the MIT license.
+  Copyright (c) Cassandra Hardin. All rights reserved.  
+  Licensed under the ['MIT'](https://choosealicense.com/licenses/mit/) license.
