@@ -19,7 +19,7 @@
   There are a bunch of examples for this projects
 
   ## Credits
-  [![](https://github.com/cassdoes.png?=20x)](https://github.com/cassdoes){ width=50% }\
+  [![]<img src="https://github.com/cassdoes.png?" width="50"/>](https://github.com/cassdoes)\
   William Stock
   
 
