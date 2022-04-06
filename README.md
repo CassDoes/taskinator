@@ -10,25 +10,23 @@
   - [Tests](#tests)
 
   ## Description
-  Description stuff goes here
+  It is all the things
 
   ## Installation
-  There are so many steps!
+  lots of steps
 
   ## Usage
-  There are a bunch of examples for this projects
+  examples are here
 
   ## Credits
-  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes)\
-  William Stock
+  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes)  Cassandra Hardin
   
-
   ## Licenses
-  No one can use my stuff
+  They can never use it
 
   ## Questions
-  cassdoes\
+  cassdoes
   yahoo.com
 
   ## Tests
-  No testing at all
+  no tests
