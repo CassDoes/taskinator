@@ -20,11 +20,11 @@
   asdf
 
   
-  ## Credit  
+  ## Credit
 [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes)  
-**cass hardin**
+**cass hardin**  
 [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118)  
-**william**
+**william**  
 
   ## Contributing & Feedback 
 
