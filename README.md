@@ -5,10 +5,10 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
-  - [Licenses](#licenses)
-  - [Questions](#questions)
+  - [Credit](#credits)
+  - [Contributing & Feedback](#questions)
   - [Tests](#tests)
+  - [Licenses](#licenses)
 
   ## Description
   asdf
@@ -21,9 +21,9 @@
 
   
   ## Credit  
-  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | 
+  [<img src="https://github.com/asdf.png?" width="100"/>](https://github.com/asdf) | 
   :----: | 
-  **cassandra hardin** | 
+  **asdf** | 
   
 
   ## Contributing & Feedback 
