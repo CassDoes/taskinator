@@ -1,5 +1,5 @@
- # Projects that are awesome
-  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>](https://choosealicense.com/licenses/mit/)
+# asdf
+  [<img src="https://img.shields.io/badge/License-FDL_v1.3-blue.svg"/>](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Table of Contents
   - [Description](#description)
@@ -11,27 +11,26 @@
   - [Tests](#tests)
 
   ## Description
-  lots of description
+  asdf
 
   ## Installation
-  lots of installation stuff
+  asdf
 
   ## Usage
-  Lots of instruction thangs
+  asdf
 
   
   ## Credit  
   
   [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118) | 
-  :----: |
   
   [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | 
+  
   :----: |
   
+  **william** |
   
-  **William Stock** |
-  
-  **Cassandra Hardin** |
+  **cass** |
   
   
 
@@ -40,15 +39,15 @@
   Please reach out via either of these links with any questions, including ways in which
   you can contribute to this project!
 
-  [<img src="https://github.com/CassDoes.png?" width="150"/>](https://github.com/CassDoes)  
+  [<img src="https://github.com/asdf.png?" width="150"/>](https://github.com/asdf)  
   
-  cass@yahoo.com  
-  **Cassandra Hardin**
+  asdf  
+  **asdf**
 
   ## Tests
-  Lots of testing things here
+  asdf
 
   ## Licenses
   
-  Copyright (c) Portfolio Company. All rights reserved.  
-  Licensed under the ['MIT'](https://choosealicense.com/licenses/mit/) license.
+  Copyright (c) asdf. All rights reserved.  
+  Licensed under the ['GNU GPLv3'](https://www.gnu.org/licenses/gpl-3.0) license.
