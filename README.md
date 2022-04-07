@@ -26,7 +26,7 @@
   **cass** | 
   
 
-  ## Contributing & Feedback 
+  ## Contribute 
 
   Please reach out via either of these links with any questions, including ways in which
   you can contribute to this project!
@@ -41,5 +41,5 @@
 
   ## Licenses
   
-  Copyright (c) asdsf. All rights reserved.  
+  Copyright (c) asdf. All rights reserved.  
   Licensed under the ['MIT'](https://choosealicense.com/licenses/mit/) license.
