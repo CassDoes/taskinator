@@ -26,7 +26,7 @@
   **asdf** | 
   
 
-  ## Contributing & Feedback 
+  ## Contributing and Feedback 
 
   Please reach out via either of these links with any questions, including ways in which
   you can contribute to this project!
