@@ -6,7 +6,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credit](#credit)
-  - [Contributing and Feedback](#contributingandfeedback)
+  - [Contributing and Feedback](#contributing and feedback)
   - [Tests](#tests)
   - [Licenses](#licenses)
 
