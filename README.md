@@ -1,5 +1,5 @@
-# Command Line Generated README
-  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>](https://choosealicense.com/licenses/mit/)
+# asdf
+  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>](https://www.mit.edu/~amini/LICENSE.md)
 
   ## Table of Contents
   - [Description](#description)
@@ -11,33 +11,33 @@
   - [Licenses](#licenses)
 
   ## Description
-  Description required here
+  asdf
 
   ## Installation
-  Installations steps here
+  asdf
 
   ## Usage
-  Instructions for use should be placed here.
+  asdf
 
   
   ## Credit  
-  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | 
-  :----: | :----: | :----: | :----: | 
-  **Cassandra Hardin** | **cassdoes** | **Cassandra** | **Cass Doe** | 
+  
+  
+  
   
 
   ## Contribute 
   Please reach out via either of the following links with any questions, including ways in which
   you can contribute to this project!
 
-  | [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes) |
+  | [<img src="https://github.com/asdf.png?" width="150"/>](https://github.com/asdf) |
   | :-: |
-  | cass@yahoo.com |
-  | **Cassandra Doe** |
+  | asdf |
+  | **asdf** |
 
   ## Tests
-  Testing is here
+  asdf
 
   ## Licenses
-  Copyright (c) CassDoes. All rights reserved.  
-  Licensed under the ['MIT'](https://choosealicense.com/licenses/mit/) license.
+  Copyright (c) asdf. All rights reserved.  
+  Licensed under the ['MIT'](https://www.mit.edu/~amini/LICENSE.md) license.
