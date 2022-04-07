@@ -21,9 +21,9 @@
 
   
   ## Credit
-| [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118) |
-| :----: | :----: |
-| **Cassandra Hardin** | **Wiliam Stock** |
+ [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118) 
+ :----: | :----: 
+ **Cassandra Hardin** | **Wiliam Stock** 
 
   ## Contributing & Feedback 
 
