@@ -36,8 +36,7 @@
   
   [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118) | 
   [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | 
-  :----: |
-  :----: |
+  :----: | :----: | 
   **will** |
   **cass** |
   
