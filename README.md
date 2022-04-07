@@ -4,9 +4,9 @@
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage](#uage)
-  - [Credit](#credits)
-  - [Contributing & Feedback](#questions)
+  - [Usage](#usage)
+  - [Credit](#credit)
+  - [Contributing & Feedback](#contributing&feedback)
   - [Tests](#tests)
   - [Licenses](#licenses)
 
