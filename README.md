@@ -1,5 +1,5 @@
-# sadf
-  [<img src="https://img.shields.io/badge/License-FDL_v1.3-blue.svg"/>](https://www.gnu.org/licenses/gpl-3.0)
+# Project
+  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
   - [Description](#description)
@@ -11,19 +11,19 @@
   - [Tests](#tests)
 
   ## Description
-  asdf
+  what why how
 
   ## Installation
-  asdf
+  install
 
   ## Usage
-  asdf
+  instructions
 
   
   ## Credit  
-  [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118) | [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | 
+  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118) | 
   :----: | :----: | 
-  **will** | **cass** | 
+  **Cassandra Hardin** | **William Stock** | 
   
 
   ## Contributing & Feedback 
@@ -31,15 +31,15 @@
   Please reach out via either of these links with any questions, including ways in which
   you can contribute to this project!
 
-  [<img src="https://github.com/asdf.png?" width="150"/>](https://github.com/asdf)  
+  [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes)  
   
-  asdf  
-  **asdf**
+  cass@yahoo.com  
+  **Cassandra **
 
   ## Tests
-  asdf
+  tests
 
   ## Licenses
   
-  Copyright (c) sadf. All rights reserved.  
-  Licensed under the ['GNU GPLv3'](https://www.gnu.org/licenses/gpl-3.0) license.
+  Copyright (c) Cass Does. All rights reserved.  
+  Licensed under the ['MIT'](https://choosealicense.com/licenses/mit/) license.
