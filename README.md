@@ -1,4 +1,4 @@
-# Project
+# asdf
   [<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
@@ -11,19 +11,19 @@
   - [Tests](#tests)
 
   ## Description
-  what why how
+  asdf
 
   ## Installation
-  install
+  asdf
 
   ## Usage
-  instructions
+  asdf
 
   
   ## Credit  
-  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118) | 
-  :----: | :----: | 
-  **Cassandra Hardin** | **William Stock** | 
+  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | 
+  :----: | 
+  **cassandra hardin** | 
   
 
   ## Contributing & Feedback 
@@ -31,15 +31,15 @@
   Please reach out via either of these links with any questions, including ways in which
   you can contribute to this project!
 
-  [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes)  
+  [<img src="https://github.com/asdf.png?" width="150"/>](https://github.com/asdf)  
   
-  cass@yahoo.com  
-  **Cassandra **
+  asdf  
+  **asdf**
 
   ## Tests
-  tests
+  asdf
 
   ## Licenses
   
-  Copyright (c) Cass Does. All rights reserved.  
+  Copyright (c) asdf. All rights reserved.  
   Licensed under the ['MIT'](https://choosealicense.com/licenses/mit/) license.
