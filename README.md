@@ -1,5 +1,5 @@
 # asdf
-  [<img src="https://img.shields.io/badge/License-FDL_v1.3-blue.svg"/>](https://www.gnu.org/licenses/gpl-3.0.txt)
+  [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"/>](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
   ## Table of Contents
   - [Description](#description)
@@ -40,4 +40,4 @@
 
   ## Licenses
   Copyright (c) asdf. All rights reserved.  
-  Licensed under the ['GNU'](https://www.gnu.org/licenses/gpl-3.0.txt) license.
+  Licensed under the ['GNU'](https://www.apache.org/licenses/LICENSE-2.0.txt) license.
