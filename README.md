@@ -1,4 +1,4 @@
- # Portfolio Project
+# I have the best project
   [<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
@@ -11,30 +11,40 @@
   - [Tests](#tests)
 
   ## Description
-  Here is a description of my project
+  this is the description
 
   ## Installation
-  There are lots of steps here
+  there are lots of steps
 
   ## Usage
-  Here are the instructions for how my project should be used.
+  there are lots of instructions
 
-  ## Credits
-  [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118)  
-
-  **William Stock**
+  
+  
+    ## Credit  
+    [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118)  
+  
+    **William Stock**
+    
+    ## Credit  
+    [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes)  
+  
+    **Cassandra Hardin**
+    
+  
 
   ## Contributing & Feedback 
 
-  Please reach out via either of these links with any questions, including ways in which  
+  Please reach out via either of these links with any questions, including ways in which
   you can contribute to this project!
 
   [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes)  
   
-  casshaxo@yahoo.com
+  cass@yahoo.com  
+  **Cassandra Hardin**
 
   ## Tests
-  My project has not had any testing.
+  i have done no testing on my projects
 
   ## Licenses
   
