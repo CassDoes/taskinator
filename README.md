@@ -6,7 +6,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credit](#credit)
-  - [Contributing & Feedback](#contributing)
+  - [Contribute](#contribute)
   - [Tests](#tests)
   - [Licenses](#licenses)
 
@@ -21,12 +21,12 @@
 
   
   ## Credit  
-  [<img src="https://github.com/asdf.png?" width="100"/>](https://github.com/asdf) | 
+  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | 
   :----: | 
-  **asdf** | 
+  **cass** | 
   
 
-  ## Contributing and Feedback 
+  ## Contributing & Feedback 
 
   Please reach out via either of these links with any questions, including ways in which
   you can contribute to this project!
@@ -41,5 +41,5 @@
 
   ## Licenses
   
-  Copyright (c) asdf. All rights reserved.  
+  Copyright (c) asdsf. All rights reserved.  
   Licensed under the ['MIT'](https://choosealicense.com/licenses/mit/) license.
