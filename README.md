@@ -1,5 +1,5 @@
-# projects
-  [<img src="https://img.shields.io/badge/License-FDL_v1.3-blue.svg"/>](https://www.gnu.org/licenses/gpl-3.0)
+# My Project
+  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
   - [Description](#description)
@@ -17,18 +17,18 @@
   asdf
 
   ## Usage
-  sdf
+  asdf
 
   
-  
   ## Credit  
-  [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118)  
   
-  **william stock**
-   
-  [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes)  
+[<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes)  
   
-  **cassandra hardin**
+**cass hardin**
+  
+[<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118)  
+  
+**william**
   
   
 
@@ -37,15 +37,15 @@
   Please reach out via either of these links with any questions, including ways in which
   you can contribute to this project!
 
-  [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes)  
+  [<img src="https://github.com/asdf.png?" width="150"/>](https://github.com/asdf)  
   
-  cass@yahoo.com  
-  **cass hardin**
+  asdf  
+  **asdf**
 
   ## Tests
-  sadf
+  asdf
 
   ## Licenses
   
   Copyright (c) asdf. All rights reserved.  
-  Licensed under the ['GNU GPLv3'](https://www.gnu.org/licenses/gpl-3.0) license.
+  Licensed under the ['MIT'](https://choosealicense.com/licenses/mit/) license.
